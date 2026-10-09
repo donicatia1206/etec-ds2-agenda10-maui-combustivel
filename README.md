@@ -1,7 +1,7 @@
 # ⛽ Calculadora de Combustível em .NET MAUI
 
 **Atividade da Agenda 10 — Desenvolvimento de Sistemas II (DS2)**  
-*Centro Paula Souza - ETEC Deputado Ary de Camargo Pedroso*  
+*Centro Paula Souza - ETEC Fernando Febeliano da Costa*  
 **Aluno:** Donizete dos Santos  
 **Professor Mediador:** Tadeu Fernando Piran  
 
@@ -68,6 +68,7 @@ Aplicativo móvel multiplataforma desenvolvido em **.NET MAUI (C# e XAML)** para
     </ScrollView>
 
 </ContentPage>
+
 using System;
 
 namespace MauiAppMeuCombustivel
@@ -115,4 +116,3 @@ namespace MauiAppMeuCombustivel
         }
     }
 }
-
